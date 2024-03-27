@@ -12,7 +12,7 @@ Project Name           :Implementing-CRM-For-Result-Tracking-Of-A-Candidate-With
 Trailhead Profile      :https://www.salesforce.com/trailblazer/neerajadodla
 Developer Org Username :nr328933@gdcproject.com
 Developer Org Password :Gayatri@123
-Position               : spoc
+Position               : team member
 
 Name Of the Student    : Y.sujatha
 Learning track         : SalesForce Developer
